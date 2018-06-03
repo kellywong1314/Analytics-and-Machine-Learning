@@ -7,7 +7,7 @@ This project is based on an active competition on Kaggle, where housing characte
 ## Data Source
 
 The project data can be found on Kaggle here:
-[Advanced Regression] (https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
+[Advanced Regression](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
 
 ## Files
 
